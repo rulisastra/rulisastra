@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## My current week focus on github
 
-![rulisastra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rulisastra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact)]
