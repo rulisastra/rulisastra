@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rulisastra.visitorbadge)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&langs_count=10)](https://github.com/rulisastra/github-readme-stats)
