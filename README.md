@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=rulisastra.visitorbadge)
 
 
-## My current week focus on github
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact)]
