@@ -9,3 +9,5 @@
 - ⚡ Fun fact: ... last night I found orion and his belt in the constellation! So exciting!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact&langs_count=10)
+
+[![rulisastra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rulisastra&layout=compact)](https://github.com/rulisastra/github-readme-stats)
