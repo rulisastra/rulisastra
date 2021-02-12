@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact&langs_count=10)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rulisastra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rulisastra&layout=compact&langs_count=10&count_private=true&v=2)](https://github.com/anuraghazra/github-readme-stats)
