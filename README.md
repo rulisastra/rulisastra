@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ... handling error
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... [linktree](https://linktr.ee/rulisastra)
-- ⚡ Fun fact: ... I adore the constellations
+- ⚡ Fun fact: ... I have a clear PURPOSE, and it makes everything seem possible.
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact&langs_count=10)
