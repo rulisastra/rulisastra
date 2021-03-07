@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... backend documentation from both accounts [github+[gitlab](https://gitlab.com/rulisastra)], plus a mini project [calcGO](https://github.com/rulisastra/calcGO.git) for a week
 - 🌱 I’m currently learning ... golang API
 - 👯 I’m looking to collaborate on ... golang excercises (pairing?! :grimacing:)
-- 🤔 I’m looking for help with ... handling error
+- 🤔 I’m looking for help with ... way of thinking (logic, and that kind a thing)
 - 💬 Ask me about ... anything! :wink:
 - 📫 How to reach me: ... [linktree](https://linktr.ee/rulisastra)
 - ⚡ Fun fact: ... I have a clear Dream at the end of this, and it makes everything seems possible.
