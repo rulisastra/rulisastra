@@ -1,7 +1,8 @@
 ## Hi ![](https://visitor-badge.laobi.icu/badge?page_id=rulisastra.visitorbadge) people! :blush:
 
-- 🔭 I’m currently working on ... backend documentation from both accounts [github+[gitlab](https://gitlab.com/rulisastra)], plus a mini project [calcGO](https://github.com/rulisastra/calcGO.git) for a week
-- 🌱 I’m currently learning ... golang API
+- 🔭 I’m currently working on ... my company's project. Migrating to BITBUCKET.
+    > backend documentation from both accounts [github+[gitlab](https://gitlab.com/rulisastra)], plus a mini project [calcGO](https://github.com/rulisastra/calcGO.git) (_POSTPONED :exclamation:_)
+- 🌱 I’m currently learning ... golang API and updating my website
 - 👯 I’m looking to collaborate on ... golang excercises (pairing?! :grimacing:)
 - 🤔 I’m looking for help with ... way of thinking (logic, and that kind a thing)
 - 💬 Ask me about ... anything! :wink:
