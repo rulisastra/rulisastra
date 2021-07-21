@@ -4,7 +4,7 @@
     > backend documentation from both accounts [github+[gitlab](https://gitlab.com/rulisastra)], plus a mini project [calcGO](https://github.com/rulisastra/calcGO.git) (_POSTPONED :exclamation:_)
 - 🌱 I’m currently learning ... golang API and updating my website
 - 👯 I’m looking to collaborate on ... golang excercises (pairing?! :grimacing:)
-- 🤔 I’m looking for help with ... way of thinking (logic, and that kind a thing)
+- 🤔 I’m looking for help with ... way of thinking (logic, and stuff like that)
 - 💬 Ask me about ... anything! :wink:
 - 📫 How to reach me: ... [linktree](https://linktr.ee/rulisastra)
 - ⚡ Fun fact: ... I have a clear Dream at the end of this, and it makes everything seems possible.
