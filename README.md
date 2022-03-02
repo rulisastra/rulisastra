@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact&langs_count=10&theme=material-palenight&hide=python" alt="Ruli's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulisastra&layout=compact&langs_count=10&theme=material-palenight" alt="Ruli's github stats" />
 </a>
 <br><br>
 
