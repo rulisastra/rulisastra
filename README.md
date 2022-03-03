@@ -27,4 +27,5 @@
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rulisastra&layout=compact&langs_count=10&count_private=true&v=2&theme=material-palenight" />
 </a> -->
-## I can increase this badge [![wakatime](https://wakatime.com/badge/user/a45d5cc6-fe77-45cc-b557-df4d34735c55.svg)](https://wakatime.com/@a45d5cc6-fe77-45cc-b557-df4d34735c55)
+## I can increase this badge
+<a href="https://wakatime.com/@a45d5cc6-fe77-45cc-b557-df4d34735c55"><img src="https://wakatime.com/badge/user/a45d5cc6-fe77-45cc-b557-df4d34735c55.svg" alt="Total time coded since Feb 4 2021" /></a>
