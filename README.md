@@ -23,8 +23,8 @@
 
   NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-## and this week, I code some...
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- ## and this week, I code some... -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@rulisastra&layout=compact&langs_count=10&count_private=true&v=2&theme=material-palenight" />
-</a>
-
+</a> -->
+## I can increase this badge [![wakatime](https://wakatime.com/badge/user/a45d5cc6-fe77-45cc-b557-df4d34735c55.svg)](https://wakatime.com/@a45d5cc6-fe77-45cc-b557-df4d34735c55)
